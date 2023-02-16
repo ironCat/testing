@@ -7,3 +7,11 @@ exports[`validation axios function to return array 1`] = `
   "3",
 ]
 `;
+
+exports[`validation axios mock should return array 1`] = `
+[
+  "1",
+  "2",
+  "3",
+]
+`;
